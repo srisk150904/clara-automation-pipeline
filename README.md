@@ -9,7 +9,26 @@ The system processes **demo call transcripts and onboarding updates** to generat
 The pipeline extracts operational rules from transcripts, creates a **versioned agent configuration**, and visualizes the results through a **Streamlit dashboard**.
 
 ---
+## Table of Contents
 
+- Problem Context
+- System Overview
+- Pipeline Architecture
+- Key Features
+- Repository Structure
+- Input Dataset
+- Output Structure
+- Account Memo Schema
+- Retell Agent Specification
+- Version Control and Change Tracking
+- Running the Pipeline
+- Assignment Requirements and Implementation
+- Launch the Dashboard
+- Dashboard Capabilities
+- Design Decisions
+- Future Improvements
+- Demonstration Video
+---
 # Problem Context
 
 Service trade companies (HVAC, electrical, fire protection, etc.) receive large volumes of inbound calls.
