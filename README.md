@@ -278,6 +278,26 @@ outputs/accounts/
 
 ---
 
+# Assignment Requirements and Implementation
+
+This project was designed to satisfy the key requirements outlined in the Clara Answers assignment.  
+The table below summarizes how each requirement is addressed in the system.
+
+| Assignment Requirement | Implementation in This Project |
+|---|---|
+| Demo call → Preliminary agent configuration | The pipeline processes demo transcripts and generates a structured **Account Memo JSON** and **Agent Configuration v1**. |
+| Onboarding update → Agent modification | Onboarding transcripts are processed by the **patch engine**, producing an updated **Agent Configuration v2**. |
+| Structured operational data extraction | The **extraction engine** parses transcripts and converts them into a structured **Account Memo schema**. |
+| Retell agent draft specification | The system generates a **Retell-compatible agent configuration template** including prompt structure, routing rules, and fallback logic. |
+| Version control between demo and onboarding | The system stores **v1 and v2 configurations** separately and maintains configuration history. |
+| Change tracking | A **changelog (`changes.md`)** records differences between v1 and v2 configurations. |
+| Batch processing | The pipeline processes **multiple accounts automatically** from the dataset directories. |
+| Reproducible pipeline | The system runs locally using **Python scripts and zero-cost tools**. |
+| Structured outputs | All generated artifacts are stored as **versioned JSON files**. |
+| Visualization / inspection interface | A **Streamlit dashboard** allows inspection of account configurations and version changes. |
+
+---
+
 # Launch the Dashboard
 
 Run the Streamlit dashboard:
@@ -367,7 +387,7 @@ Dashboard visualization
 
 # Author
 
-Sriram
+S Sriram - 22BCE3761
 B.Tech Computer Science and Engineering
 VIT Vellore
 
