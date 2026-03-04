@@ -1,0 +1,3 @@
+- business_hours: None → mentioned in transcript
+- services_supported: ['sprinkler services', 'fire alarm systems'] → ['sprinkler services']
+- notes: Extracted automatically from transcript Email detected: support@acmefireprotection.com Contact phone detected: 403-555-1822 → Extracted automatically from transcript

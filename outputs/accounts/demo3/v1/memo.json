@@ -1,0 +1,22 @@
+{
+  "account_id": "demo3",
+  "company_name": "Demo3",
+  "business_hours": null,
+  "office_address": null,
+  "services_supported": [
+    "hvac services"
+  ],
+  "emergency_definition": [
+    "customer states emergency situation"
+  ],
+  "emergency_routing_rules": null,
+  "non_emergency_routing_rules": null,
+  "call_transfer_rules": null,
+  "integration_constraints": [],
+  "after_hours_flow_summary": null,
+  "office_hours_flow_summary": null,
+  "questions_or_unknowns": [
+    "business hours not specified"
+  ],
+  "notes": "Extracted automatically from transcript Email detected: service@hvacsolutions.com Contact phone detected: 403-555-7744"
+}

@@ -1,0 +1,21 @@
+{
+  "account_id": "bens_electric",
+  "company_name": "Bens Electric",
+  "business_hours": null,
+  "office_address": null,
+  "services_supported": [
+    "electrical services"
+  ],
+  "emergency_definition": [],
+  "emergency_routing_rules": null,
+  "non_emergency_routing_rules": null,
+  "call_transfer_rules": null,
+  "integration_constraints": [],
+  "after_hours_flow_summary": null,
+  "office_hours_flow_summary": null,
+  "questions_or_unknowns": [
+    "business hours not specified",
+    "emergency rules not clearly defined"
+  ],
+  "notes": "Extracted automatically from transcript"
+}

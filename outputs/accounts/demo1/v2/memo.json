@@ -1,0 +1,23 @@
+{
+  "account_id": "demo1",
+  "company_name": "Demo1",
+  "business_hours": "mentioned in transcript",
+  "office_address": null,
+  "services_supported": [
+    "electrical services"
+  ],
+  "emergency_definition": [
+    "customer states emergency situation"
+  ],
+  "emergency_routing_rules": null,
+  "non_emergency_routing_rules": null,
+  "call_transfer_rules": "transfer call to dispatch team",
+  "integration_constraints": [],
+  "after_hours_flow_summary": null,
+  "office_hours_flow_summary": null,
+  "questions_or_unknowns": [
+    "business hours not specified",
+    "emergency rules not clearly defined"
+  ],
+  "notes": "Extracted automatically from transcript"
+}

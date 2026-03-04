@@ -1,0 +1,3 @@
+- business_hours: None → mentioned in transcript
+- call_transfer_rules: None → transfer call to dispatch team
+- notes: Extracted automatically from transcript Email detected: service@hvacsolutions.com Contact phone detected: 403-555-7744 → Extracted automatically from transcript

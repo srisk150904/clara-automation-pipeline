@@ -1,0 +1,7 @@
+ACME Fire Protection confirmed business hours Monday to Friday 9am to 6pm.
+
+Emergency sprinkler leaks must be transferred directly to the dispatch team.
+
+If the call transfer fails after 60 seconds, collect caller name, phone number, and address and notify the technician.
+
+Non-emergency inspection requests should be scheduled during business hours.

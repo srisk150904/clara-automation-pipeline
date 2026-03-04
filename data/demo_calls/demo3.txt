@@ -1,0 +1,10 @@
+Caller contacted HVAC Solutions regarding air conditioning repair and maintenance services.
+
+The company provides HVAC repair, installation, and inspection services.
+
+Emergency calls include complete HVAC failure during extreme temperatures.
+
+Emergency calls should be routed to the on-call technician.
+
+Contact email: service@hvacsolutions.com
+Contact phone: 403-555-7744
