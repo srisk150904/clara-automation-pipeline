@@ -279,6 +279,7 @@ Run the pipeline:
 
 ```
 python scripts/pipeline.py
+streamlit run dashboard/streamlit_app.py
 ```
 
 Example output:
@@ -392,7 +393,7 @@ Automated workflow orchestration (n8n)
 Loom Demo (3–5 minutes)
 
 ```
-<Insert Loom Video Link Here>
+<[>](https://www.loom.com/share/619b883932cb42cfb4ef3afde5600a7d)>
 ```
 
 The demo shows:
