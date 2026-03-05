@@ -395,7 +395,7 @@ Automated workflow orchestration (n8n)
 Loom Demo (3–5 minutes)
 
 ```
-<[>](https://www.loom.com/share/619b883932cb42cfb4ef3afde5600a7d)>
+https://www.loom.com/share/619b883932cb42cfb4ef3afde5600a7d
 ```
 
 The demo shows:
