@@ -279,6 +279,8 @@ Run the pipeline:
 
 ```
 python scripts/pipeline.py
+```
+```
 streamlit run dashboard/streamlit_app.py
 ```
 
